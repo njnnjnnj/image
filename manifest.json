@@ -1,7 +1,7 @@
 {
-  "name": "Majestic Game APP",
+  "name": "Majestic",
   "description": "A decentralized app using TON blockchain",
-  "url": "https://frontend-majestic-pearl.vercel.app/",
-  "iconUrl": "https://njnnjnnj.github.io/game-fe/image.png",
-  "manifestUrl": "https://njnnjnnj.github.io/game-fe/manifest.json"
+  "url": "https://majestic.tg/",
+  "iconUrl": "https://njnnjnnj.github.io/image/logo.png",
+  "manifestUrl": "https://njnnjnnj.github.io/image/manifest.json"
 }
